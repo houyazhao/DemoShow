@@ -6,3 +6,4 @@
 - [canvasConflict](https://houhoz.github.io/demos/canvas学习/canvasConflict.html)
 - [VideoCanvas](https://houhoz.github.io/demos/canvas学习/VideoCanvas.html)
 - [图形验证码](https://houhoz.github.io/demos/canvas学习/图形验证码.html)
+- [泡泡龙](https://houhoz.github.io/demos/canvas学习/泡泡龙.html)
